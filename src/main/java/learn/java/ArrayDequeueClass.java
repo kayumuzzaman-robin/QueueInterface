@@ -4,6 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.LinkedList;
 
+// Implements Deque Interface
 public class ArrayDequeueClass {
     public static void main(String[] args) {
         Deque<Integer> stringDeque = new LinkedList<>();
